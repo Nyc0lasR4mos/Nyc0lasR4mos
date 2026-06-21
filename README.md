@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./Senac_logo" width="150" alt="Logo Senac">
+  <img src="./Senac_logo" width="400" alt="Logo Senac">
 </div>
 
 # Olá, eu sou o Nycolas Ramos! 👋
