@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="./assets/senac-logo.png" width="160" alt="Logo Senac">
+</div>
+
 # Olá, eu sou o Nycolas Ramos! 👋
 
 🎓 Atualmente me formando pelo **Senac** no curso técnico de **Tecnologia da Informação**
