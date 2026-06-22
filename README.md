@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="./Senac_logo.svg" width="400" alt="Logo Senac" />
+  <img src="./Senac_logo" width="400" alt="Logo Senac">
 </div>
 
 <div align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=30&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=800&height=80&lines=Ol%C3%A1%2C+eu+sou+o+Nycolas+Ramos;Desenvolvedor+Full-Stack;Apaixonado+por+Tecnologia"
+    src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=30&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=800&height=80&lines=Ol%C3%A1%2C+eu+sou+o+Nycolas+Ramos;Desenvolvedor+Full-Stack;Apaixonado+por+Aprender"
     alt="Typing SVG"
   />
 </div>
