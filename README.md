@@ -1,27 +1,38 @@
-<div align="center">
-  <img src="./Senac_logo" width="400" alt="Logo Senac">
-</div>
-
 # Olá, eu sou o Nycolas Ramos! 👋
 
-🎓 Atualmente me formando pelo **Senac** no curso técnico de **Tecnologia da Informação**
+<img align="right" src="./Senac_logo.svg" width="150" alt="Logo Senac">
+
+🎓 Atualmente me formando pelo **Senac**  
 💻 Apaixonado por desenvolvimento **Full-Stack** e em constante evolução  
 📜 Certificado por **Senac**, **Bradesco**, **DIO** e **Cisco**  
 🚀 Focado em criar soluções modernas, escaláveis e com boas práticas de código
+
+<!-- Animação de Digitação -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&duration=3000&pause=1000&color=6366F1&background=FFFFFF00&multiline=true&width=435&lines=Ol%C3%A1%2C+eu+sou+o+Nycolas+Ramos;Desenvolvedor+Full-Stack;Apaixonado+por+Tecnologia" alt="Typing SVG" />
+</div>
 
 ---
 
 ### 🛠️ Tecnologias & Ferramentas
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![TypeScriptJSX](https://img.shields.io/badge/react-3178C6?style=for-the-badge&logo=react&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" height="40" alt="vercel logo"  />
+</div>
 
 ---
 
@@ -37,10 +48,11 @@
 ### 📬 Vamos nos conectar?
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nycolas-ramos-483810399/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nyckgabramos@gmail.com)
 
 ---
 
-<!-- SNAKE ANIMATION (opcional, veja instruções abaixo) -->
+<!-- SNAKE ANIMATION -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/Nyc0lasR4mos/Nyc0lasR4mos/output/github-snake.svg" alt="snake animation"/>
 </div>
