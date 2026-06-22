@@ -1,11 +1,13 @@
 <div align="center">
-  <img src="./Senac_logo" width="400" alt="Logo Senac">
+  <img src="./Senac_logo.svg" width="400" alt="Logo Senac">
 </div>
 
 <!-- Animação de Digitação -->
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&duration=3000&pause=1000&color=6366F1&background=FFFFFF00&multiline=true&width=435&lines=Ol%C3%A1%2C+eu+sou+o+Nycolas+Ramos;Desenvolvedor+Full-Stack;Apaixonado+por+Tecnologia" alt="Typing SVG" />
 </div>
+
+<br>
 
 🎓 Atualmente me formando pelo **Senac** no curso técnico de **Tecnologia da Informação**  
 💻 Apaixonado por desenvolvimento **Full-Stack** e em constante evolução  
