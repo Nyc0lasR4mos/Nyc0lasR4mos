@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./Senac_logo.svg" width="400" alt="Logo Senac">
+  <img src="./Senac_logo" width="400" alt="Logo Senac">
 </div>
 
 <!-- Animação de Digitação (Cor ajustada para combinar com Radical) -->
@@ -60,7 +60,7 @@
 
 ### Vamos nos conectar?
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2&color=FE428E)](https://www.linkedin.com/in/nycolas-ramos-483810399/) [![Email](https://img.shields.io/badge/-Email-000000?style=for-the-badge&logo=gmail&logoColor=D14836&color=FE428E)](mailto:nyckgabramos@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/nycolas-ramos-483810399/) [![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=D14836)](mailto:nyckgabramos@gmail.com)
 
 ---
 
