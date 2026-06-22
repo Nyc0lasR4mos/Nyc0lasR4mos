@@ -1,7 +1,8 @@
 <div align="center">
-  <img src="./Senac_logo" width="400" alt="Logo Senac">
+  <img src="./Senac_logo.svg" width="400" alt="Logo Senac">
 </div>
 
+<!-- Animação de Digitação -->
 <div align="center">
   <img
     src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=30&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=800&height=80&lines=Ol%C3%A1%2C+eu+sou+o+Nycolas+Ramos;Desenvolvedor+Full-Stack;Apaixonado+por+Aprender"
@@ -42,7 +43,7 @@
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <div align="center">
   <img
@@ -57,15 +58,13 @@
 
 ---
 
-### 📬 Vamos nos conectar?
+### Vamos nos conectar?
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nycolas-ramos-483810399/)
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nyckgabramos@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nycolas-ramos-483810399/) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nyckgabramos@gmail.com)
 
 ---
 
+<!-- SNAKE ANIMATION -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/Nyc0lasR4mos/Nyc0lasR4mos/output/github-snake.svg" alt="snake animation" />
 </div>
-```
