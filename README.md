@@ -2,10 +2,10 @@
   <img src="./Senac_logo" width="400" alt="Logo Senac">
 </div>
 
-<!-- Animação de Digitação -->
+<!-- Animação de Digitação (Cor ajustada para vermelho/rosa) -->
 <div align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=30&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=800&height=80&lines=Ol%C3%A1%2C+eu+sou+o+Nycolas+Ramos;Desenvolvedor+Full-Stack;Apaixonado+por+Aprender"
+    src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=30&duration=3000&pause=1000&color=FF5F5F&center=true&vCenter=true&width=800&height=80&lines=Ol%C3%A1%2C+eu+sou+o+Nycolas+Ramos;Desenvolvedor+Full-Stack;Apaixonado+por+Aprender"
     alt="Typing SVG"
   />
 </div>
@@ -48,11 +48,11 @@
 <div align="center">
   <img
     height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=Nyc0lasR4mos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"
+    src="https://github-readme-stats.vercel.app/api?username=Nyc0lasR4mos&show_icons=true&theme=radical&include_all_commits=true&count_private=true"
   />
   <img
     height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nyc0lasR4mos&layout=compact&langs_count=7&theme=dracula"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nyc0lasR4mos&layout=compact&langs_count=7&theme=radical"
   />
 </div>
 
@@ -61,6 +61,7 @@
 ### Vamos nos conectar?
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nycolas-ramos-483810399/) [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nyckgabramos@gmail.com)
+
 ---
 
 <!-- SNAKE ANIMATION -->
