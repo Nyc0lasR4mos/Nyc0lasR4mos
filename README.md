@@ -1,16 +1,16 @@
-# Olá, eu sou o Nycolas Ramos! 👋
-
-<img align="right" src="./Senac_logo.svg" width="150" alt="Logo Senac">
-
-🎓 Atualmente me formando pelo **Senac**  
-💻 Apaixonado por desenvolvimento **Full-Stack** e em constante evolução  
-📜 Certificado por **Senac**, **Bradesco**, **DIO** e **Cisco**  
-🚀 Focado em criar soluções modernas, escaláveis e com boas práticas de código
+<div align="center">
+  <img src="./Senac_logo.svg" width="400" alt="Logo Senac">
+</div>
 
 <!-- Animação de Digitação -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&duration=3000&pause=1000&color=6366F1&background=FFFFFF00&multiline=true&width=435&lines=Ol%C3%A1%2C+eu+sou+o+Nycolas+Ramos;Desenvolvedor+Full-Stack;Apaixonado+por+Tecnologia" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&duration=3000&pause=1000&color=6366F1&background=FFFFFF00&multiline=true&width=435&lines=Ol%C3%A1%2C+eu+sou+o+Nycolas+Ramos;Desenvolvedor+Full-Stack;Apaixonado+por+Tecnologia" alt="Typing SVG" />
 </div>
+
+🎓 Atualmente me formando pelo **Senac** no curso técnico de **Tecnologia da Informação**  
+💻 Apaixonado por desenvolvimento **Full-Stack** e em constante evolução  
+📜 Certificado por **Senac**, **Bradesco**, **DIO** e **Cisco**  
+🚀 Focado em criar soluções modernas, escaláveis e com boas práticas de código
 
 ---
 
@@ -26,6 +26,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
