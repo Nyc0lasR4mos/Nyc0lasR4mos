@@ -56,7 +56,7 @@
   />
   <img
     height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nyc0lasR4mos&layout=compact&langs_count=7&theme=radical"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nyc0lasR4mos&layout=compact&langs_count=7&theme=dark"
   />
 </div>
 
