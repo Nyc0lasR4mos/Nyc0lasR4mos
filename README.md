@@ -5,7 +5,7 @@
 <!-- Animação de Digitação (Cor ajustada para combinar com Radical) -->
 <div align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=30&duration=3000&pause=1000&color=FE428E&center=true&vCenter=true&width=800&height=80&lines=Ol%C3%A1%2C+eu+sou+o+Nycolas+Ramos;Desenvolvedor+Full-Stack;Apaixonado+por+Aprender"
+    src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=30&duration=3000&pause=1000&color=300502&center=true&vCenter=true&width=800&height=80&lines=Ol%C3%A1%2C+eu+sou+o+Nycolas+Ramos;Desenvolvedor+Full-Stack;Apaixonado+por+Aprender"
     alt="Typing SVG"
   />
 </div>
