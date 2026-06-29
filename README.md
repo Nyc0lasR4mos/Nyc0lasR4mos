@@ -15,7 +15,11 @@
 
   <div align="left" width="55%">
 
-### About Me
+<table border="0">
+<tr>
+<td valign="top">
+
+### 👨‍💻 About Me
 
 🎓 Atualmente me formando pelo **Senac** no curso técnico de **Tecnologia da Informação**
 
@@ -25,16 +29,15 @@
 
 🚀 Focado em criar soluções modernas, escaláveis e com boas práticas de código
 
-  </div>
+</td>
 
-  <img
-    src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"
-    width="320"
-    alt="Computer Illustration"
-  />
+<td align="center">
 
-  </div>
-</div>
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="320">
+
+</td>
+</tr>
+</table>
 
 ---
 
