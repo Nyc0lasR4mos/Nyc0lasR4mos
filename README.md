@@ -10,12 +10,29 @@
   />
 </div>
 
-<br>
+<table>
+<tr>
+<td width="60%">
 
-🎓 Atualmente me formando pelo **Senac** no curso técnico de **Tecnologia da Informação**  
-💻 Apaixonado por desenvolvimento **Full-Stack** e em constante evolução  
-📜 Certificado por **Senac**, **Bradesco**, **DIO** e **Cisco**  
+### 👨‍💻 About Me
+
+🎓 Atualmente me formando pelo **Senac** no curso técnico de **Tecnologia da Informação**
+
+💻 Apaixonado por desenvolvimento **Full-Stack** e em constante evolução
+
+📜 Certificado por **Senac**, **Bradesco**, **DIO** e **Cisco**
+
 🚀 Focado em criar soluções modernas, escaláveis e com boas práticas de código
+
+</td>
+
+<td width="40%" align="center">
+
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="320"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
