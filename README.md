@@ -15,10 +15,6 @@
 
   <div align="left" width="55%">
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="350">
-</div>
-
 ### About Me
 
 🎓 Atualmente me formando pelo **Senac** no curso técnico de **Tecnologia da Informação**
