@@ -14,7 +14,7 @@
 <tr>
 <td width="60%">
 
-### 👨‍💻 About Me
+### About Me
 
 🎓 Atualmente me formando pelo **Senac** no curso técnico de **Tecnologia da Informação**
 
