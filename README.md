@@ -10,9 +10,10 @@
   />
 </div>
 
-<table>
-<tr>
-<td width="60%">
+<div align="center">
+  <div style="display: flex; align-items: center; justify-content: space-between;">
+
+  <div align="left" width="55%">
 
 ### About Me
 
@@ -24,15 +25,16 @@
 
 🚀 Focado em criar soluções modernas, escaláveis e com boas práticas de código
 
-</td>
+  </div>
 
-<td width="40%" align="center">
+  <img
+    src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"
+    width="320"
+    alt="Computer Illustration"
+  />
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="320"/>
-
-</td>
-</tr>
-</table>
+  </div>
+</div>
 
 ---
 
