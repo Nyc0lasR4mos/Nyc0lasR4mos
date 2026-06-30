@@ -59,7 +59,7 @@
 <div align="center">
   <img
     height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=Nyc0lasR4mos&show_icons=true&theme=dark&include_all_commits=true&count_private=true"
+    <img src="https://github-stats.com/api/overall?username=Nyc0lasR4mos&theme=dark" />
   />
   <img
     height="180em"
