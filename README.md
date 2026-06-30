@@ -59,7 +59,7 @@
 <div align="center">
   <img
     height="180em"
-    <img src="https://github-stats.com/api/overall?username=Nyc0lasR4mos&theme=dark" />
+    src="https://github-stats.com/api/overall?username=Nyc0lasR4mos&theme=dark"
   />
   <img
     height="180em"
