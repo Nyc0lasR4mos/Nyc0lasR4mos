@@ -17,13 +17,13 @@
 
 ### About Me
 
-🎓 Atualmente me formando pelo **Senac** no curso técnico de **Tecnologia da Informação**
+Atualmente me formando pelo **Senac** no curso técnico de **Tecnologia da Informação**
 
-💻 Apaixonado por desenvolvimento **Full-Stack** e em constante evolução
+Apaixonado por desenvolvimento **Full-Stack** e em constante evolução
 
-📜 Certificado por **Senac**, **Bradesco**, **DIO** e **Cisco**
+Certificado por **Senac**, **Bradesco**, **DIO** e **Cisco**
 
-🚀 Focado em criar soluções modernas, escaláveis e com boas práticas de código
+Focado em criar soluções modernas, escaláveis e com boas práticas de código
 ---
 
 ### My Stack
